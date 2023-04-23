@@ -1,0 +1,102 @@
+#home-container {
+    display: flex;
+  }
+  textarea{
+    width:100%;
+    background-color: black;
+    color: white;
+  }
+  #home-container #feed-posts {
+    width: 85%;
+    padding: 10px;
+  }
+  #home-container #user-friends {
+    width: 15%;
+    padding: 10px;
+    border-left: 1px solid darkgrey;
+    height: 100%;
+  }
+  
+  /*# sourceMappingURL=home.css.map */
+  
+  
+  #posting{
+    border: 1px solid black;
+    padding:10px;
+  }
+  
+  
+  #post-container{
+    /* border: 1px solid black; */
+    padding:10px;
+    margin-bottom:30px;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+  }
+  
+  #post-container li{
+    list-style: none;
+    
+   
+  }
+  
+  author-post{
+    border: 1px solid black;
+    padding:10px;
+  }
+  
+  author{
+    border: 1px solid black;
+    padding:10px;
+  }
+  
+  #row-wise{
+    display: flex;
+    flex-direction: row;
+    margin-right: 12px;
+    padding: left 10px;
+    border: 1px solid black;
+    margin-left:5px;
+    margin-right:10px;
+  }
+  
+  #posts-list-container{
+    /* border: 1px solid black; */
+    margin-top:10px;
+  }
+  
+  /* Background styles */
+  body {
+    background-color: #111927;
+    background-image: 
+        radial-gradient(at 47% 33%, hsl(162.00, 77%, 40%) 0, transparent 59%), 
+        radial-gradient(at 82% 65%, hsl(218.00, 39%, 11%) 0, transparent 55%);
+  }
+  
+  /* Glassmorphism card effect */
+  .card {
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+  }
+
+//  #home-container{
+//     display: flex;
+
+//     #feed-posts{
+//         width: 70%;
+//         padding: 10px;
+//     }
+
+//     #user-friends{
+//         width: 30%;
+//         padding:10px;
+//         border-left: 1px solid darkgrey;
+//         height: 100%;
+//     }
+//  }

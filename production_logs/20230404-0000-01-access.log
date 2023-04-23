@@ -1,0 +1,109 @@
+[0mGET / [36m304[0m 101.067 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 23.148 ms - 153[0m
+[0mGET /css/chat_box.css [33m404[0m 20.260 ms - 155[0m
+[0mGET /css/header.css [33m404[0m 37.824 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 52.036 ms - 151[0m
+[0mGET /js/home_posts.js [33m404[0m 54.823 ms - 155[0m
+[0mGET /js/home_post_comments.js [33m404[0m 28.656 ms - 163[0m
+[0mGET /css/footer.css [33m404[0m 20.252 ms - 153[0m
+[0mGET /js/toggle_likes.js [33m404[0m 26.921 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 10.095 ms - 156[0m
+[0mGET /css/layout.css [33m404[0m 4.307 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 12.569 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 12.196 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 8.911 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 9.214 ms - 155[0m
+[0mGET / [36m304[0m 118.983 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 4.415 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 15.660 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 16.263 ms - 155[0m
+[0mGET /css/header.css [33m404[0m 16.271 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 16.830 ms - 153[0m
+[0mGET /js/home_posts.js [33m404[0m 19.368 ms - 155[0m
+[0mGET /js/home_post_comments.js [33m404[0m 19.843 ms - 163[0m
+[0mGET /js/toggle_likes.js [33m404[0m 11.029 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 11.616 ms - 156[0m
+[0mGET / [36m304[0m 80.403 ms - -[0m
+[0mGET /js/home_post_comments.js [33m404[0m 6.974 ms - 163[0m
+[0mGET /css/layout.css [33m404[0m 10.497 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 17.775 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 14.071 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 14.199 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 20.574 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 19.264 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 11.001 ms - 156[0m
+[0mGET /js/home_posts.js [33m404[0m 17.309 ms - 155[0m
+[0mGET /css/layout.css [33m404[0m 8.488 ms - 153[0m
+[0mGET / [36m304[0m 94.909 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 4.313 ms - 153[0m
+[0mGET /js/home_posts.js [33m404[0m 17.092 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 17.397 ms - 157[0m
+[0mGET /css/chat_box.css [33m404[0m 17.741 ms - 155[0m
+[0mGET /css/header.css [33m404[0m 19.277 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 23.475 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 10.942 ms - 151[0m
+[0mGET /js/chat_engine.js [33m404[0m 14.241 ms - 156[0m
+[0mGET /css/layout.css [33m404[0m 14.055 ms - 153[0m
+[0mGET /js/home_post_comments.js [33m404[0m 14.922 ms - 163[0m
+[0mGET / [36m304[0m 68.507 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 6.532 ms - 153[0m
+[0mGET /js/home_post_comments.js [33m404[0m 9.885 ms - 163[0m
+[0mGET /css/header.css [33m404[0m 13.930 ms - 153[0m
+[0mGET /js/chat_engine.js [33m404[0m 14.787 ms - 156[0m
+[0mGET /css/footer.css [33m404[0m 17.963 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 16.718 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 17.027 ms - 155[0m
+[0mGET /js/home_posts.js [33m404[0m 14.062 ms - 155[0m
+[0mGET /css/layout.css [33m404[0m 19.128 ms - 153[0m
+[0mGET /js/toggle_likes.js [33m404[0m 21.504 ms - 157[0m
+[0mGET / [36m304[0m 72.994 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 4.329 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 17.498 ms - 153[0m
+[0mGET /js/toggle_likes.js [33m404[0m 15.747 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 16.001 ms - 156[0m
+[0mGET /css/footer.css [33m404[0m 16.189 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 19.406 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 13.196 ms - 155[0m
+[0mGET /js/home_post_comments.js [33m404[0m 10.233 ms - 163[0m
+[0mGET /js/home_posts.js [33m404[0m 11.648 ms - 155[0m
+[0mGET /css/layout.css [33m404[0m 7.149 ms - 153[0m
+[0mGET / [36m304[0m 76.498 ms - -[0m
+[0mGET /css/layout.css [33m404[0m 8.136 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 20.524 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 22.509 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 23.266 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 22.193 ms - 155[0m
+[0mGET /js/home_post_comments.js [33m404[0m 21.997 ms - 163[0m
+[0mGET /js/home_posts.js [33m404[0m 11.919 ms - 155[0m
+[0mGET /js/toggle_likes.js [33m404[0m 18.290 ms - 157[0m
+[0mGET /js/chat_engine.js [33m404[0m 20.615 ms - 156[0m
+[0mGET /css/layout.css [33m404[0m 21.388 ms - 153[0m
+[0mGET / [36m304[0m 74.921 ms - -[0m
+[0mGET /js/chat_engine.js [33m404[0m 9.598 ms - 156[0m
+[0mGET /css/layout.css [33m404[0m 10.916 ms - 153[0m
+[0mGET /js/toggle_likes.js [33m404[0m 7.149 ms - 157[0m
+[0mGET /css/footer.css [33m404[0m 5.069 ms - 153[0m
+[0mGET /js/home_posts.js [33m404[0m 3.280 ms - 155[0m
+[0mGET /css/header.css [33m404[0m 19.363 ms - 153[0m
+[0mGET /js/home_post_comments.js [33m404[0m 17.165 ms - 163[0m
+[0mGET /css/chat_box.css [33m404[0m 12.406 ms - 155[0m
+[0mGET /css/home.css [33m404[0m 22.712 ms - 151[0m
+[0mGET /css/layout.css [33m404[0m 11.053 ms - 153[0m
+[0mGET /css/header.css [33m404[0m 11.771 ms - 153[0m
+[0mGET /css/footer.css [33m404[0m 11.037 ms - 153[0m
+[0mGET /css/home.css [33m404[0m 11.207 ms - 151[0m
+[0mGET /css/chat_box.css [33m404[0m 15.575 ms - 155[0m
+::1 - - [03/Apr/2023:17:05:58 +0000] "GET / HTTP/1.1" 200 4175 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:03 +0000] "GET /users/sign-in HTTP/1.1" 304 - "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:13 +0000] "POST /users/create-session HTTP/1.1" 302 46 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:13 +0000] "GET / HTTP/1.1" 200 6373 "http://localhost:8000/users/sign-in" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:18 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 58 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:19 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 57 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:20 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 58 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:20 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 57 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:22 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 58 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:22 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 57 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:23 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 58 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:23 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 57 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:24 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 58 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [03/Apr/2023:17:06:25 +0000] "POST /likes/toggle/?id=64287107ffff5fc43dd40e40&type=Post HTTP/1.1" 200 57 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
