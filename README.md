@@ -1,3 +1,6 @@
+Important Note :  my gmail account is disabled by google which i used in google Oauth2 so now sign-in and sign-up via google is not working...if you want it will also work then make changes in config/environment.js file and in mailers folder  by using new id generate keys
+
+
 # Blogging Bliss 
  
 
