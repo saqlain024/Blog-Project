@@ -44,7 +44,7 @@ Our website is designed using the following architecture:
  1) download the project
  2) install all the required packages using " npm install "
  3) install redis and mongoDB
- 4)  Run the Project using   " npm run prod_start " 
+ 4) Run the Project using   " npm run prod_start " 
 
 # Credits
 Thanks to my Team Members
@@ -55,10 +55,10 @@ Thanks to my Team Members
 - Saklain (me) : https://github.com/saqlain024
 
 # Everyone Contribution
-- Chrystal, Prajna, Sandeep is worked on Frontend part
-- Advika, Saklain  is worked on Backend part
+- Chrystal, Prajna, Sandeep has worked on the Frontend part.
+- Advika, Saklain has worked on Backend part.
 
 
 # Conclusion
-- Thanks to RedBus for providing this opportunity where student can showcase their skills and specails thanks to my team  
+- Thanks to RedBus for providing this opportunity where student's can showcase their skills and special thanks to my team.
 
