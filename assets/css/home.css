@@ -2,7 +2,7 @@
   display: flex;
 }
 
-textarea {
+textarea {/*make post text area black and cover whole width*/
   width: 100%;
   background-color: black;
   color: white;
@@ -66,13 +66,13 @@ author {
   margin-top: 10px;
 }
 
-/* Background styles */
+/* Background styles radial gradient*/
 body {
   background-color: #111927;
   background-image: radial-gradient(at 47% 33%, hsl(162, 77%, 40%) 0, transparent 59%), radial-gradient(at 82% 65%, hsl(218, 39%, 11%) 0, transparent 55%);
 }
 
-/* Glassmorphism card effect */
+/* Glassmorphism card effect for each post*/
 .card {
   backdrop-filter: blur(16px) saturate(180%);
   -webkit-backdrop-filter: blur(16px) saturate(180%);
