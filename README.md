@@ -19,7 +19,7 @@ Our team developed a website that addresses the problem statement by providing a
 - Ability to update profile picture for users
 
 # Features
-Our website offers the following features:
+Our website  offers the following features:
 
 - Blog post feed: users can view all blog posts on a single page, sorted by date or popularity
 - Like and comment functionality: users can interact with blog posts by liking and commenting on them
@@ -32,7 +32,7 @@ Our website offers the following features:
 
 # Architecture & Technology Used
 Our website is designed using the following architecture:
-- Architecture: Our website is following Model-View-Controller (MVC) architecture.
+- Architecture: Our website is following Model-View-Controller ( MVC ) architecture.
 - Front-end: HTML | CSS | SCSS | JavaScript | Bootstrap | jquery
 - Back-end & packages : Node.js | Express.js | MongoDB | Nodemailer | redis | gulp | passport | passport-Jwt | passport-google-auth | multer | morgan | kue | jason-web-token | ejs | crypto | cors| connect-flash | cookie-parser
 
