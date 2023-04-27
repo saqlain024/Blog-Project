@@ -1,7 +1,7 @@
 #home-container {
   display: flex;
 }
-
+/*  css for textarea */
 textarea {
   width: 100%;
   background-color: black;
@@ -40,7 +40,7 @@ textarea {
 #post-container li {
   list-style: none;
 }
-
+/*  css for author post */
 author-post {
   border: 1px solid black;
   padding: 10px;
