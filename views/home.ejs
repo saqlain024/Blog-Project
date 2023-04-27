@@ -1,12 +1,13 @@
 <link rel="stylesheet" href= "<%= assetPath('css/home.css') %>">
-
+<!-- format of home page -->
 <body>
 <div id="home-container">
     <section id="feed-posts">
             <h4>Blog</h4>
-            
+            <!-- user is allowed to post if logged in -->
             <% if(locals.user){ %>
                 <div id="posting">
+                    <!-- text area -->
                     <form action="/posts/create" id="new-post-form" method="POST">
                         <textarea name="content" cols="30" rows="3" placeholder="Type Here..." required></textarea>
                         <input type="submit" value="Post">
@@ -16,6 +17,7 @@
         
             <div id="posts-list-container">
                 <ul>
+                    <!-- display all posts from db -->
                     <% for(post of posts){ %>
                         
                     <%- include('_post') -%>
@@ -28,8 +30,10 @@
         
         <section id="user-friends">
             <h4>Following</h4>
+            <!-- display all users in the db for following list -->
             <% for(u of all_users){%>
                 <p>
+                    <!-- link the user profile to their profile page -->
                     <a href="/users/profile/<%= u.id %>"><%= u.name %></a>
                 </p>
             <% } %>
@@ -44,6 +48,8 @@
 
 <!-- CHANGE:: import the script file for toggle likes, also run it over for the already present posts and comments on the page -->
 <script src="<%= assetPath('js/toggle_likes.js') %>"></script>
+
+<!-- script for toggle like button -->
 <script>
     $('.toggle-like-button').each(function(){
         let self = this;
